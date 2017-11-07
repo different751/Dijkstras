@@ -1,0 +1,2 @@
+# Dijkstras
+Dijkstras pathfinding algorithm
